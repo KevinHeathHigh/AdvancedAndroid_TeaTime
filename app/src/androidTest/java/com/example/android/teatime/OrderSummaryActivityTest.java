@@ -58,7 +58,7 @@ public class OrderSummaryActivityTest {
     }
 
 
-    // TODO (4) Finish this method which verifies that the intent sent by clicking the send email
+    // TODO/COMPLETED (4) Finish this method which verifies that the intent sent by clicking the send email
     // button matches the intent sent by the application
     @Test
     public void clickSendEmailButton_SendsEmail() {
